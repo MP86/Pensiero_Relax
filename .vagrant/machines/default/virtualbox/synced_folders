@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/pensiero-relax":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/pensiero-relax","hostpath":"C:/Users/Matteo/Documents/GitHub/Pensiero_Relax","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Matteo/Documents/GitHub/Pensiero_Relax","disabled":false,"__vagrantfile":true}}}
