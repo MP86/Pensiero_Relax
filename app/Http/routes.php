@@ -25,6 +25,8 @@ Route::get('shiatsu','HomeController@shiatsu');
 
 Route::get('rilassante','HomeController@rilassante');
 
+Route::get('reiki','HomeController@reiki');
+
 Route::get('contatti','HomeController@contatti');
 
 

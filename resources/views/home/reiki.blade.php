@@ -3,13 +3,13 @@
 
 @section('seo')
 	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua.
-	I motivi per scegliere il massaggio rilassante,
+	I motivi per scegliere il massaggio Reiky,
 	 in tutta la provincia di Forl�-Cesena (FC)">
     
 @stop
 
 @section('title')
-Rilassante
+Reiki
 @stop
 
 @section('content')
@@ -21,15 +21,15 @@ Rilassante
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">Il massaggio
-                        <strong>Rilassante:</strong>
+                        <strong>Reiky:</strong>
                     </h2>
                     <hr>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/rilassante1.jpg" alt="massaggio rilassante">
+                    <img class="img-responsive img-border-left" src="../img/reiki.jpg" alt="massaggio reiki">
                 </div>
                 <div class="col-md-6">
-                	<h3>Storia del massaggio Rilassante:</h3>
+                	<h3>Storia del massaggio Reiki:</h3>
                     <p>L’origine di questa pratica risale a molti secoli fa e probabilmente il massaggio è la forma
                      più antica di trattamento medico utilizzata per eliminare la fatica, alleviare il dolore,
                       rilassare e consentire una più facile applicazione di oli e unguenti sulla pelle.
@@ -44,11 +44,11 @@ Rilassante
                          con diverse modalità.</p>
                     </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/rilassante2.jpg" alt="massaggio rilassante">
+                    <img class="img-responsive img-border-left" src="../img/reiki.jpg" alt="massaggio reiki">
                 </div>
                 
                 <div class="col-md-6">
-                    <h3>Le tipologie di massaggio Rilassante:</h3>
+                    <h3>Le tipologie di massaggio Reiki:</h3>
                     <p>Solitamente il massaggio rilassante viene fatto sulle spalle e sulla parte bassa della schiena,
                      dove si accumulano maggiormente le tensioni muscolari, ma può comprendere anche piedi,
                       braccia e mani per raggiungere un relax totale.<br><br><br><br><br><br><br><br></p>
@@ -57,11 +57,11 @@ Rilassante
                  </div>
                  
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/rilassante3.jpg" alt="massaggio rilassante">
+                    <img class="img-responsive img-border-left" src="../img/reiki.jpg" alt="massaggio reiki">
                 </div>
                      
                 <div class="col-md-6">
-                    <h3>Come si svolge il massaggio Rilassante:</h3>
+                    <h3>Come si svolge il massaggio Reiki:</h3>
                     <p>Il massaggio viene eseguito in un ambiente che favorisce il relax fisico e mentale,
                      con luci soffuse e/o candele: ci si stende su un lettino e vengono applicati olii o essenze
                       per favorire il frizionamento della pelle e per rilasciare una piacevole profumo.
@@ -76,13 +76,13 @@ Rilassante
         </div>
         
         <div class="col-lg-12 text-center">
-                    <h2>Rilassante
+                    <h2>Reiki
                         <br>
                         <small>2016</small>
                     </h2>
                     
-                    <p>Il massaggio Rilassante <br>
-                    pensato per abbattere totalmente lo stress accumulato.
+                    <p>Il massaggio Reiki <br>
+                    pensato per .
                     <br><br>
                     <small>DURATA: </small>
                     <br>Parziale: 30 Min. (circa)

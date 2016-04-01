@@ -2,8 +2,9 @@
 
 
 @section('seo')
-	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua. I motivi di questo sito.">
-    <meta name="author" content="Pensiero Relax - MP86">
+	<meta name="description" content="Massaggi Shiatsu, Reiky e rilassanti anche a casa tua.
+	 I massaggi a casa vostra, in tutta la provincia di ForlÏ-Cesena (FC)">
+    
 @stop
 
 @section('title')
@@ -85,18 +86,18 @@ Home
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">Il motivo:
-                        <strong>Sceglierci perch√®?!?</strong>
+                        <strong>Sceglierci perchË?!?</strong>
                     </h2>
                     <hr>
                     <p>Siamo professionisti che offrono un servizio anche a domicilio.</p>
                     <p>Questo perch√® non essendo una spa rilassante, pensiamo che il cliente possa essere pi√π rilassato a casa propria.
 					Piuttosto che, appena usciti dal lavoro, andarsi a far fare un massaggio, cercando parcheggio chiss√† dove rischiando
-					di fare tardi o comunque stressarsi ancor di pi√π! In ogni caso se in studio o a casa lo decidete voi l'importante,
-					per noi, √® che siate a vostro agio.</p>
+					di fare tardi o comunque stressarsi ancor di pi˘! In ogni caso se in studio o a casa lo decidete voi l'importante,
+					per noi, Ë che siate a vostro agio.</p>
 					<hr>
 					<img class="img-responsive img-border img-center" src="../img/zen.jpg" alt="pietre zen">
 					<hr>
-					<h3><strong>I massaggi a casa vostra, in tutta la provincia di Forl√¨-Cesena (FC)</strong></h3>
+					<h3><strong>I massaggi a casa vostra, in tutta la provincia di ForlÏ-Cesena (FC)</strong></h3>
 					<hr>
                 </div>
             </div>

@@ -3,8 +3,9 @@
 
 @section('seo')
 	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua.
-	I motivi per scegliere il massaggio shiatsu.">
-    <meta name="author" content="Pensiero Relax - MP86">
+	I motivi per scegliere il massaggio shiatsu,
+	 in tutta la provincia di Forlì-Cesena (FC)">
+    
 @stop
 
 @section('title')
@@ -20,12 +21,12 @@ Shiatsu
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">Il massaggio
-                        <strong>shiatsu:</strong>
+                        <strong>Shiatsu:</strong>
                     </h2>
                     <hr>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/slide2.jpg" alt="massaggio shiatsu">
+                    <img class="img-responsive img-border-left" src="../img/shiatsu.jpg" alt="massaggio shiatsu">
                 </div>
                 <div class="col-md-6">
                 	<h3>Cos'Ã¨ lo Shiatsu:</h3>
@@ -35,11 +36,11 @@ Shiatsu
                       Se in questo senso ha radici nel patrimonio comune alla cultura estremo-orientale,
                        ha ricevuto tuttavia in Giappone i principi operativi su cui si fonda.
                         Dal Giappone si e' affermato prepotentemente nel mondo, Italia compresa,
-                         a partire dagli anni Settanta.</p>
+                         a partire dagli anni Settanta.<br><br><br><br></p>
                 </div>
                 
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/slide2.jpg" alt="massaggio shiatsu">
+                    <img class="img-responsive img-border-left" src="../img/shiatsu.jpg" alt="massaggio shiatsu">
                  </div>
                  
                 <div class="col-md-6">   
@@ -71,7 +72,7 @@ Shiatsu
                      </div>
                      
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/slide2.jpg" alt="massaggio shiatsu">
+                    <img class="img-responsive img-border-left" src="../img/shiatsu.jpg" alt="massaggio shiatsu">
                      </div>
                      
                 <div class="col-md-6">
@@ -103,7 +104,7 @@ Shiatsu
                         <small>2016</small>
                     </h2>
                     
-                    <p>Il massaggio shiatsu <br>
+                    <p>Il massaggio Shiatsu <br>
                     per chi ha bisogno di togliersi di dosso tutta "l'incriccatura" del lavoro.
                     <br><br>
                     <small>DURATA: </small><br> 30-60 Min
@@ -113,36 +114,7 @@ Shiatsu
                     <hr>
          </div>
 
-        <div class="row">
-            <div class="box">
-                <div class="col-lg-12">
-                    <hr>
-                    <h2 class="intro-text text-center">Our
-                        <strong>Team</strong>
-                    </h2>
-                    <hr>
-                </div>
-                <div class="col-sm-4 text-center">
-                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
-                    <h3>John Smith
-                        <small>Job Title</small>
-                    </h3>
-                </div>
-                <div class="col-sm-4 text-center">
-                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
-                    <h3>John Smith
-                        <small>Job Title</small>
-                    </h3>
-                </div>
-                <div class="col-sm-4 text-center">
-                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
-                    <h3>John Smith
-                        <small>Job Title</small>
-                    </h3>
-                </div>
-                <div class="clearfix"></div>
-            </div>
-        </div>
+        
 
     </div>
     <!-- /.container -->

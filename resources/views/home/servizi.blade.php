@@ -4,7 +4,7 @@
 @section('seo')
 	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua. 
 	I servizi che ti possiamo offrire e a che prezzo.">
-    <meta name="author" content="Pensiero Relax - MP86">
+    
 @stop
 
 @section('title')
@@ -27,13 +27,13 @@ Servizi
                 
                 
                 <div class="col-lg-12 text-center">
-                    <img class="img-responsive img-border img-full" src="../img/slide1.jpg" alt="massaggio rilassante">
+                    <img class="img-responsive img-border img-full" src="../img/rilassante1.jpg" alt="massaggio rilassante">
                     <h2>Rilassante
                         <br>
                         <small>2016</small>
                     </h2>
                     
-                    <p>Il massaggio rilassante <br>
+                    <p>Il massaggio Rilassante <br>
                     pensato per abbattere totalmente lo stress accumulato.
                     <br><br>
                     <small>DURATA: </small>
@@ -47,19 +47,38 @@ Servizi
                 
                 
                 <div class="col-lg-12 text-center">
-                    <img class="img-responsive img-border img-full" src="../img/slide2.jpg" alt="massaggio shiatsu">
+                    <img class="img-responsive img-border img-full" src="../img/shiatsu.jpg" alt="massaggio shiatsu">
                     <h2>Shiatsu
                         <br><br>
                         <small>2016</small>
                     </h2>
                     
-                    <p>Il massaggio shiatsu <br>
+                    <p>Il massaggio Shiatsu <br>
                     per chi ha bisogno di togliersi di dosso tutta "l'incriccatura" del lavoro.
                     <br><br>
                     <small>DURATA: </small><br> 30-60 Min
                     </p>
                     <br>
                     <a href="/shiatsu" class="btn btn-default btn-lg">Per Saperne Di Più</a>
+                    <hr>
+                </div>
+                
+                <div class="col-lg-12 text-center">
+                    <img class="img-responsive img-border img-full" src="../img/reiki.jpg" alt="massaggio reiki">
+                    <h2>Reiki
+                        <br>
+                        <small>2016</small>
+                    </h2>
+                    
+                    <p>Il massaggio Reiki <br>
+                    pensato per chi vuole .
+                    <br><br>
+                    <small>DURATA: </small>
+                    <br>Parziale: 30 Min. (circa)
+                    <br>Totale: 50 Min. (circa)
+                    </p>
+					<br>
+                    <a href="/reiki" class="btn btn-default btn-lg">Per Saperne Di Più</a>
                     <hr>
                 </div>
                 

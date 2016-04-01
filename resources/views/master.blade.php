@@ -9,6 +9,8 @@
 	
 	@yield('seo')
 	
+	<meta name="author" content="Pensiero Relax di Pretolani Matteo e Andrea Bilotto - by MP86">
+	
 	<link rel="icon" href="../img/favicon.ico">
 
     <title>Pensiero Relax/@yield('title')</title>
@@ -81,23 +83,17 @@
 					<li>
                         <a href="/servizi">Servizi</a>
                     </li>
-                    
-                    <!-- dropdown -->
-                    <li class="dropdown">
-                    	<a class="dropdown-toggle" 
-                    	id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" 
-                    	aria-expanded="true">Massaggi:</a>
-                    	
-                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                   
                     <li>
                         <a href="/shiatsu">Shiatsu</a>
                     </li>
                     <li>
+                        <a href="/reiki">Reiki</a>
+                    </li>
+                    <li>
                         <a href="/rilassante">Rilassante</a>
                     </li>
-                    </ul>
-                    </li>
-                    <!-- fine dropdown -->
+                    
                     
                     <li>
                         <a href="/contatti">Contatti</a>
@@ -109,14 +105,6 @@
         <!-- /.container -->
     </nav>
 	
-	<div class="col-lg-12 text-center">
-	
-						<audio controls autoplay loop> <!-- autoplay -->
-							<source src="../audio/PensieroRelax.mp3" type="audio/mp3">
-							il tuo browser non supporta la riproduzione audio
-						</audio>
-	
-	</div>
 
 @yield('content')
 
@@ -132,19 +120,25 @@
                 	<ul class="social-network social-circle">
                         
                         <li>
-	                        <a class="fb-share-button" href="http://laravel.app/" data-layout="button">
+	                        <a class="fb-share-button" 
+	                        href="https://www.facebook.com/sharer/sharer.php?u=http%3A//www.pensierorelax.tk"
+	                         data-layout="button">
 	                        <i class="fa fa-facebook"></i>
 	                        </a>
                         </li>
                         
                         <li>
-	                        <a href="https://twitter.com/share" class="icoTwitter" title="Twitter">
+	                        <a href="https://twitter.com/home?status=http%3A//www.pensierorelax.tk"
+	                         class="icoTwitter" 
+	                         title="Twitter">
 	                        <i class="fa fa-twitter"></i>
 	                        </a>
                         </li>
                         
                         <li>
-	                        <a href="https://plus.google.com/share" class="icoGoogle" title="Google +">
+	                        <a href="https://plus.google.com/share?url=http%3A//www.pensierorelax.tk" 
+	                        class="icoGoogle" 
+	                        title="Google +">
 	                        <i class="fa fa-google-plus"></i>
 	                        </a>
                         </li>
@@ -160,34 +154,6 @@
         </div>
 
 
-	<div class="row">
-            <div class="box">
-                <div class="col-lg-12 text-center">
-                	<div>
-                	
-                	<a class="fb-share-button"
-	                	 href="http://laravel.app/"
-	                	 data-layout="button">
-	                	 Condividi
-                	<a>
-                	
-						
-					
-					<a href="https://twitter.com/share" 
-						class="twitter-share-button" data-size="large">
-						Tweet
-					</a>
-					
-					
-					
-					<a class="g-plus" data-action="share" data-annotation="none">
-					</a>
-	
-                	
-                </div>
-            </div>
-    </div>
-</div>
 
 <footer>
         <div class="container">
@@ -219,34 +185,8 @@
 		    })
     </script>
     
-    		<!-- Sript Facebook -->
-    	<div id="fb-root"></div>
-				<script>
-					  (function(d, s, id) {
-					  var js, fjs = d.getElementsByTagName(s)[0];
-					  if (d.getElementById(id)) return;
-					  js = d.createElement(s); js.id = id;
-					  js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.5";
-					  fjs.parentNode.insertBefore(js, fjs);
-					  }(document, 'script', 'facebook-jssdk'));
-				</script>
-				
     
-    			<!-- Script Twitter -->
-    				<script>
-    						!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?
-							'http':'https';if(!d.getElementById(id))
-							{js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';
-							fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-					</script>
-					
-					
-			<!-- Social G+ -->
-					<script src="https://apis.google.com/js/platform.js" async defer>
-					  {lang: 'it'}
-					</script>
-					
-
+    
 </body>
 
 </html>

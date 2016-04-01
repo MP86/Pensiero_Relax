@@ -24,6 +24,11 @@ class HomeController extends Controller
 		return view('home.rilassante');
 	}
 	
+	public function reiki()
+	{
+		return view('home.reiki');
+	}
+	
 	public function contatti()
 	{
 		return view('home.contatti');
