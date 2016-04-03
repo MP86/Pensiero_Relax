@@ -4,7 +4,7 @@
 @section('seo')
 	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua.
 	I motivi per scegliere il massaggio rilassante,
-	 in tutta la provincia di Forlì-Cesena (FC)">
+	 in tutta la provincia di ForlÃ¬-Cesena (FC)">
     
 @stop
 

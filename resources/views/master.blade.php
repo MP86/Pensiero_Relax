@@ -6,14 +6,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	
+    
 	@yield('seo')
 	
 	<meta name="author" content="Pensiero Relax di Pretolani Matteo e Andrea Bilotto - by MP86">
 	
 	<link rel="icon" href="../img/favicon.ico">
 
-    <title>Pensiero Relax/@yield('title')</title>
+    <title>@yield('title')/Pensiero Relax - Il centro massaggi anche a casa tua</title>
     
     <!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" 
@@ -29,7 +29,7 @@
     <!-- Social CSS -->
     <link href="../css/social.css" rel="stylesheet">
     
-    <link href="../css/sociallite.css" rel="stylesheet">
+    
     
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     
@@ -57,11 +57,11 @@
 				
 
     <div class="brand">Pensiero Relax</div>
-    <div class="address-bar">I massaggi,
+    <div class="address-bar">Il centro massaggi,
     <br>anche a casa tua! </div>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-default" role="navigation">
+    <nav id="menu" class="navbar navbar-default" role="navigation">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -153,7 +153,13 @@
         
         </div>
 
+		<div class="col-lg-12 text-center">
+			<a href="#menu" class="btn btn-primary btn-lg btn-block">Torna al Menù</a>
+		</div>
 
+		<br>
+		<br>
+		<br>
 
 <footer>
         <div class="container">
@@ -162,7 +168,7 @@
                 <br>
                 <br>
                 	<img alt="Marchio reggistrato" src="../img/MP.png">
-                    <p>Copyright &copy; MP86 2016</p>
+                    <p>Copyright &copy; - MP86 - 2016</p>
                 </div>
             </div>
         </div>

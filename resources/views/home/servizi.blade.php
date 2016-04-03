@@ -3,7 +3,7 @@
 
 @section('seo')
 	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua. 
-	I servizi che ti possiamo offrire e a che prezzo.">
+	I servizi che ti possiamo offrire.">
     
 @stop
 
@@ -71,11 +71,11 @@ Servizi
                     </h2>
                     
                     <p>Il massaggio Reiki <br>
-                    pensato per chi vuole .
+                    pensato per chi vuole recuperare le energie sprecate
+                    durante il giorno.
                     <br><br>
                     <small>DURATA: </small>
-                    <br>Parziale: 30 Min. (circa)
-                    <br>Totale: 50 Min. (circa)
+                    <br>60 Min. (circa)
                     </p>
 					<br>
                     <a href="/reiki" class="btn btn-default btn-lg">Per Saperne Di Più</a>

@@ -2,10 +2,10 @@
 
 
 @section('seo')
-	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua Forlì-Cesena (FC).
+	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua ForlÃ¬-Cesena (FC).
 	 Ecco a te i nostri contatti.
 	Per prenotare una seduta del tipo di massaggio da te desiderato,
-	 in tutta la provincia di Forlì-Cesena (FC)">
+	 in tutta la provincia di ForlÃ¬-Cesena (FC)">
     
 @stop
 
