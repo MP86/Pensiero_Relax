@@ -2,8 +2,7 @@
 
 
 @section('seo')
-	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua.
-	I motivi per scegliere il massaggio shiatsu,
+	<meta name="description" content="I motivi per scegliere il massaggio shiatsu, anche a casa tua,
 	 in tutta la provincia di Forlì-Cesena (FC)">
     
 @stop
@@ -26,7 +25,8 @@ Shiatsu
                     <hr>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/shiatsu.jpg" alt="massaggio shiatsu">
+                    <img class="img-responsive img-border-left" src="../img/shiatsu.jpg"
+                     title="massaggio shiatsu 1" alt="1 massaggio shiatsu">
                 </div>
                 <div class="col-md-6">
                 	<h3>Cos'è lo Shiatsu:</h3>
@@ -40,7 +40,8 @@ Shiatsu
                 </div>
                 
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/shiatsu.jpg" alt="massaggio shiatsu">
+                    <img class="img-responsive img-border-left" src="../img/shiatsu.jpg"
+                     title="massaggio shiatsu 2" alt="2 massaggio shiatsu">
                  </div>
                  
                 <div class="col-md-6">   
@@ -72,7 +73,8 @@ Shiatsu
                      </div>
                      
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/shiatsu.jpg" alt="massaggio shiatsu">
+                    <img class="img-responsive img-border-left" src="../img/shiatsu.jpg"
+                     title="massaggio shiatsu 3" alt="3 massaggio shiatsu">
                      </div>
                      
                 <div class="col-md-6">

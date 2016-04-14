@@ -2,8 +2,7 @@
 
 
 @section('seo')
-	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua.
-	I motivi per scegliere il massaggio rilassante,
+	<meta name="description" content="I motivi per scegliere il massaggio rilassante, anche a casa tua,
 	 in tutta la provincia di Forlì-Cesena (FC)">
     
 @stop
@@ -26,7 +25,8 @@ Rilassante
                     <hr>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/rilassante1.jpg" alt="massaggio rilassante">
+                    <img class="img-responsive img-border-left" src="../img/rilassante1.jpg"
+                     title="massaggio rilassante 1" alt="1 massaggio rilassante">
                 </div>
                 <div class="col-md-6">
                 	<h3>Storia del massaggio Rilassante:</h3>
@@ -44,7 +44,8 @@ Rilassante
                          con diverse modalità.</p>
                     </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/rilassante2.jpg" alt="massaggio rilassante">
+                    <img class="img-responsive img-border-left" src="../img/rilassante2.jpg"
+                     title="massaggio rilasante 2" alt="2 massaggio rilassante">
                 </div>
                 
                 <div class="col-md-6">
@@ -57,7 +58,8 @@ Rilassante
                  </div>
                  
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/rilassante3.jpg" alt="massaggio rilassante">
+                    <img class="img-responsive img-border-left" src="../img/rilassante3.jpg"
+                     title="massaggio rilassante 3" alt="3 massaggio rilassante">
                 </div>
                      
                 <div class="col-md-6">

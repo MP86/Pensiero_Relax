@@ -2,7 +2,7 @@
 
 
 @section('seo')
-	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua. 
+	<meta name="description" content="Massaggi Shiatsu, Reiki e Rilassante anche a casa tua. 
 	I servizi che ti possiamo offrire.">
     
 @stop
@@ -27,7 +27,8 @@ Servizi
                 
                 
                 <div class="col-lg-12 text-center">
-                    <img class="img-responsive img-border img-full" src="../img/rilassante1.jpg" alt="massaggio rilassante">
+                    <img class="img-responsive img-border img-full" src="../img/rilassante1.jpg"
+                     title="massaggio Rilassante" alt="massaggio rilassante">
                     <h2>Rilassante
                         <br>
                         <small>2016</small>
@@ -47,7 +48,8 @@ Servizi
                 
                 
                 <div class="col-lg-12 text-center">
-                    <img class="img-responsive img-border img-full" src="../img/shiatsu.jpg" alt="massaggio shiatsu">
+                    <img class="img-responsive img-border img-full" src="../img/shiatsu.jpg"
+                     title="massaggio Shiatsu" alt="massaggio shiatsu">
                     <h2>Shiatsu
                         <br><br>
                         <small>2016</small>
@@ -64,7 +66,8 @@ Servizi
                 </div>
                 
                 <div class="col-lg-12 text-center">
-                    <img class="img-responsive img-border img-full" src="../img/reiki.jpg" alt="massaggio reiki">
+                    <img class="img-responsive img-border img-full" src="../img/reiki.jpg"
+                     title="massaggio Reiki" alt="massaggio reiki">
                     <h2>Reiki
                         <br>
                         <small>2016</small>

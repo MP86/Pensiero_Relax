@@ -2,9 +2,8 @@
 
 
 @section('seo')
-	<meta name="description" content="Massaggi Shiatsu, Reiky e rilassanti anche a casa tua.
-	Pensiero relax é pensato per voi, che siete sempre di corsa e adorate farvi coccolare.
-	 Il centro massaggi anche a casa vostra, in tutta la provincia di Forlì-Cesena (FC)">
+	<meta name="description" content="Massaggi Shiatsu, Reiky e Rilassanti.
+	 Il centro massaggi anche a casa tua, in tutta la provincia di Forlì-Cesena (FC)">
     
 @stop
 
@@ -31,13 +30,16 @@ Home
                         <!-- Wrapper for slides -->
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img class="img-responsive img-full" src="../img/slide1.jpg" alt="massaggio rilassante">
+                                <img class="img-responsive img-full" src="../img/slide1.jpg"
+                                 title="massaggio rilassante" alt="massaggio rilassante">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="../img/slide2.jpg" alt="massaggio shiatsu">
+                                <img class="img-responsive img-full" src="../img/slide2.jpg"
+                                 title="massaggio shiatsu" alt="massaggio shiatsu">
                             </div>
                             <div class="item">
-                                <img class="img-responsive img-full" src="../img/slide3.jpg" alt="sala massaggio">
+                                <img class="img-responsive img-full" src="../img/slide3.jpg"
+                                 title="sala massaggio" alt="sala massaggio">
                             </div>
                         </div>
 
@@ -73,7 +75,8 @@ Home
                         <strong>Perchè un sito?!?</strong>
                     </h2>
                     <hr>
-                    <img class="img-responsive img-border img-left" src="../img/relax.jpg" alt="scritta relax">
+                    <img class="img-responsive img-border img-left" src="../img/relax.jpg"
+                     title="Relax" alt="scritta relax">
                     <hr class="visible-xs">
                     <p>Il sito è stato pensato per voi.... I "gran stressati" che cercano un massaggio. Magari anche last-minute.</p>
                     <p>Perchè oggi il loro stress sta arrivando alle stelle e sanno che quel che gli ci vuole è un pò di relax.</p>
@@ -96,9 +99,10 @@ Home
 					di fare tardi o comunque stressarsi ancor di più! In ogni caso se in studio o a casa lo decidete voi l'importante,
 					per noi, è che siate a vostro agio.</p>
 					<hr>
-					<img class="img-responsive img-border img-center" src="../img/zen.jpg" alt="pietre zen">
+					<img class="img-responsive img-border img-center" src="../img/zen.jpg"
+					 title="pietre giardino zen" alt="pietre zen">
 					<hr>
-					<h3><strong>I massaggi a casa vostra, in tutta la provincia di Forlì-Cesena (FC)</strong></h3>
+					<h3 class="intro-text text-center"><strong>I massaggi a casa vostra, in tutta la provincia di Forlì-Cesena (FC)</strong></h3>
 					<hr>
                 </div>
             </div>

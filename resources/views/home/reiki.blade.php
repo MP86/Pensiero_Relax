@@ -2,8 +2,7 @@
 
 
 @section('seo')
-	<meta name="description" content="Massaggi Shiatsu e rilassanti anche a casa tua.
-	I motivi per scegliere il massaggio Reiky,
+	<meta name="description" content="I motivi per scegliere il massaggio Reiky, anche a casa tua,
 	 in tutta la provincia di Forlì-Cesena (FC)">
     
 @stop
@@ -27,8 +26,10 @@ Reiki
                 </div>
                 <div class="col-md-6">
                     
-                    <img class="img-responsive img-border-left" src="../img/reiki.jpg" alt="massaggio reiki">
-                    <img class="img-responsive img-border-left" src="../img/simbolo1reiki.png" alt="1° simbolo Reiki">
+                    <img class="img-responsive img-border-left" src="../img/reiki.jpg"
+                     title="massaggio Reiki 1" alt="1 massaggio reiki">
+                    <img class="img-responsive img-border-left" src="../img/simbolo1reiki.png"
+                     title="simbolo Reiki 1" alt="1° simbolo Reiki">
                 </div>
                 <div class="col-md-6">
                 	<h3>Storia del massaggio Reiki:</h3>
@@ -127,8 +128,10 @@ Reiki
 	            </div>
 	            
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/reiki.jpg" alt="massaggio reiki">
-                    <img class="img-responsive img-border-left" src="../img/simbolo_reiki.png" alt="2° simbolo Reiki">
+                    <img class="img-responsive img-border-left" src="../img/reiki.jpg"
+                     title="massaggio reiki 2" alt="2 massaggio reiki">
+                    <img class="img-responsive img-border-left" src="../img/simbolo_reiki.png"
+                     title="simbolo reiki 2" alt="2° simbolo Reiki">
                 </div>
                 
                 <div class="col-md-6">
@@ -202,7 +205,8 @@ Reiki
                  </div>
                  
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="../img/reiki.jpg" alt="massaggio reiki">
+                    <img class="img-responsive img-border-left" src="../img/reiki.jpg"
+                     title="massaggio reiki 3" alt="3 massaggio reiki">
                 </div>
                      
                 <div class="col-md-6">

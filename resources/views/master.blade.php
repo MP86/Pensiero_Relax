@@ -11,9 +11,13 @@
 	
 	<meta name="author" content="Pensiero Relax di Pretolani Matteo e Andrea Bilotto - by MP86">
 	
-	<link rel="icon" href="../img/favicon.ico">
+	<link rel="icon" href="../img/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon-precomposed" href="../img/favicon.ico" type="image/x-icon">
 
-    <title>@yield('title')/Pensiero Relax - Il centro massaggi anche a casa tua</title>
+    <title>@yield('title')/Pensiero Relax - Il centro massaggi anche a casa tua!</title>
+    
+    <meta property="og:title" content="Pensiero Relax">
     
     <!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" 
@@ -168,7 +172,8 @@
                 <br>
                 <br>
                 	<img alt="Marchio reggistrato" src="../img/MP.png">
-                    <p>Copyright &copy; - MP86 - 2016</p>
+                    <p>Copyright &copy; Pensiero Relax - di Matteo Pretolani e Andrea Bilotto
+                    <br>by MP86 - 2016</p>
                 </div>
             </div>
         </div>
